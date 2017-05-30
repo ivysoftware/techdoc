@@ -2,7 +2,7 @@
 
 你好世界的代码如下:
 
-```C++
+```cpp
 int main()
 {
     printf("Hello, world\n");
